@@ -1,5 +1,7 @@
 # JEONG HEE SU Portfolio
 
+![HEE SU's Portfolio](https://ifh.cc/g/zLLGBI.jpg)
+
 
 ### [:arrow_forward: Preview]
 <a href = "https://heesu-jeong.github.io/Heesu-Portfolio/heesu.html">포트폴리오 바로가기</a>
