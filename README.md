@@ -1,6 +1,6 @@
 # JEONG HEE SU Portfolio
 
-![HEE SU's Portfolio](https://ifh.cc/g/zLLGBI.jpg)
+![HEE SU's Portfolio](https://ifh.cc/g/jTkY5W.jpg)
 
 
 ### [:arrow_forward: Preview]
